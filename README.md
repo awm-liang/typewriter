@@ -20,7 +20,7 @@ const typewriter = new Typewriter((newWord) => {
 ```typescript
 // 一行代码搞定
 typewriter.playTo("这是需要播放的文字").then(() => {
-  console.log(‘打字完成’)
+  console.log(“打字完成”)
 })
 
 // 或者可以这样
@@ -38,7 +38,7 @@ typewriter.playTo("第一段文字").then(() => {
 
 # play 播放
 ```typescript
-  typewriter.setText('这是需要播放的文字’)
+  typewriter.setText(“这是需要播放的文字”)
   typewriter.play().then(() => {
     // 完成
   })
