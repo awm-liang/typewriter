@@ -4,7 +4,7 @@ simple typewriter，Simple typing effect
 
 # 初始化传入一个函数，每当文字改变则调用该函数
 ```typescript
-import Typewriter from "./index.ts";
+import Typewriter from "./index";
 
 const typewriter = new Typewriter((newWord) => {
   // 每当文字改变则调用该函数，你可以在这更新试图
