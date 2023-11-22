@@ -38,7 +38,7 @@ typewriter.playTo("第一段文字").then(() => {
 
 # play 播放
 ```typescript
-  typewriter.setText(“这是需要播放的文字”)
+  typewriter.setText("这是需要播放的文字")
   typewriter.play().then(() => {
     // 完成
   })
