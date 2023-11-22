@@ -1,4 +1,4 @@
-# typewriter
+# Typewriter
 简易版本打字机，非常简单，一行代码搞定
 simple typewriter，Simple typing effect
 
